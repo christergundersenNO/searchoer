@@ -1054,6 +1054,9 @@
 				margin-bottom: 1 !important;
 
 	}
+	
+	.gsc-input-box, input.gsc-input {background-image:none !important;}
+	
 	.gsc-input-box {
 	    height: 35px !important;
 	    margin-top: 0 !important;
