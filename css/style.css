@@ -1030,12 +1030,12 @@
 		}
 		.gsc-search-button input.gsc-search-button-v2,
 	input.gsc-search-button-v2 {
-	    height: 26px !important;
+	    height: 40px !important;
 	    margin-top: 0 !important;
 	    min-width: 13px !important;
 	    padding: 5px 26px !important;
 	    width: 68px !important;
-	    font-size: 7px !important;
+	    font-size: 0.8em !important;
 	}
 	/* Use a different font family for search results */
 	.gs-title, .gs-snippet {
