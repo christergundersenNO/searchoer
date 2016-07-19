@@ -818,7 +818,7 @@
 
 		#logo span
 		{
-			font-size: 0.7em;
+			font-size: 1.4em;
 			color: #FFF !important;
 		}
 
@@ -1035,6 +1035,7 @@
 	    min-width: 13px !important;
 	    padding: 5px 26px !important;
 	    width: 68px !important;
+	    font-size: 7px !important;
 	}
 	/* Use a different font family for search results */
 	.gs-title, .gs-snippet {
@@ -1056,6 +1057,7 @@
 	.gsc-input-box {
 	    height: 35px !important;
 	    margin-top: 0 !important;
+	    
 
 	}
 	/* Highlight the pagination buttons at the bottom of search results */
