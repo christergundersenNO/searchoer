@@ -1030,7 +1030,7 @@
 		}
 		.gsc-search-button input.gsc-search-button-v2,
 	input.gsc-search-button-v2 {
-	    height: 40px !important;
+	    height: 26px !important;
 	    margin-top: 0 !important;
 	    min-width: 13px !important;
 	    padding: 5px 26px !important;
@@ -1057,7 +1057,6 @@
 	.gsc-input-box {
 	    height: 35px !important;
 	    margin-top: 0 !important;
-	    font-size: 0.8em !important;
 	    
 
 	}
