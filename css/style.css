@@ -1054,7 +1054,8 @@
 
 	}
 	.gsc-input-box {
-	    height: 80px !important;
+	    height: 40px !important;
+	    text-align: top !important;
 	    margin-top: 0 !important;
 			border: 1px solid #ccc !important;
 
