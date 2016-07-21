@@ -1069,7 +1069,7 @@
 			padding: 4px 8px;
 			border: 2px solid #ccc;
 	}
-	#button1 {
+input.button1 {
   outline:white solid 0.5px !important;
   padding: 6px 8px !important;
   border-radius: 3px !important;
@@ -1081,7 +1081,8 @@
   font-size: 25pt !important;
 }
 
-#button1 :hover {
+input.button1:hover {
    background: rgba(0,0,0,0.4) !important;
    color:#808080 !important;
+
 }
