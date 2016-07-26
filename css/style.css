@@ -773,7 +773,8 @@
 	{
 		position: relative;
 		---background: url(../images/header.jpg) no-repeat bottom center;
-		background-color: #3B6182;
+		--background-color: #3B6182;
+		background-color: #336699;
 		background-attachment: fixed;
 		background-size: cover;
 		text-align: center;
@@ -891,7 +892,9 @@
 	{
 		position: relative;
 		background: #fff;
+
 	}
+
 
 	.homepage #content
 	{
@@ -988,9 +991,11 @@
 	{
 		position: relative;
 		text-align: center;
-		background: url(../images/header.jpg) no-repeat center center;
+		--background: url(../images/header.jpg) no-repeat center center;
+		background-color: #336699	;
 		background-attachment: fixed;
 		background-size: cover;
+
 	}
 
 		#tweet:before
