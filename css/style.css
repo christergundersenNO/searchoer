@@ -772,8 +772,8 @@
 	#header
 	{
 		position: relative;
-		---background: url(../images/header.jpg) no-repeat bottom center;
-		--background-color: #3B6182;
+		--background: url(../images/header.jpg) no-repeat bottom center;
+		--opacity: 1;
 		background-color: #336699;
 		background-attachment: fixed;
 		background-size: cover;
@@ -895,10 +895,13 @@
 
 	}
 
-
 	.homepage #content
 	{
 		text-align: center;
+		font-size: 2em;
+		line-height: 1.1em;
+
+
 	}
 
 	.homepage #content header h2
